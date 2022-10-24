@@ -6,5 +6,13 @@
     "price": 78,
     "thumbnail":"https://freecoursesites.com/wp-content/uploads/2022/08/Learn-Adobe-Premiere-Pro-CC-%E2%80%93-Advanced-Course.jpg",
     "description": "This course is designed for those who are already familiar with the foundations of Adobe Premiere Pro and wish to improve their knowledge.People who already understand the basics of Adobe Premiere Pro or who have finished my course on Adobe Premiere Pro Essentials should enroll in this course. This course is perfect for you if you have your own way of doing things but know there are tools, updates, and ways to save time that you havent had a chance to look into yet.We examine the finest time-saving tips and obscure tools that make timeline editing really quick.We investigate color grading, color replacement, skin tone adjustment, and color management.You will learn how to use scopes effectively and master all the new Lumetri color techniques.Youll discover fresh approaches for making transitions that are both conventional and modern. Fixing handheld and drone video that is shaky will become second nature to you very soon."
+  },
+  {
+    "id": 2,
+    "title": "Learn how to make a dice game using JavaScript, Node.js, HTML5, and CSS3",
+    "introductory": "Aga Naplocha",
+    "price": 65,
+    "thumbnail": "https://freecoursesites.com/wp-content/uploads/2022/08/Learn-how-to-make-a-dice-game-using-JavaScript-Node.js-HTML5-and-CSS3.jpg",
+    "description": "You will use JavaScript in this course to create a web browser dice game. The goal of this course is to take complete novices from having no prior experience to creating their own JavaScript games with me. You are creating a dice game in this lesson where participants guess and test whether their estimate is accurate. The winner is determined by the highest score after all elimination rounds, which are determined by the dice roll of 1-6. This course includes web design. A strong programming language to learn is JavaScript. JavaScript is related to other programming languages, so knowing JavaScript will help you learn other programming languages more quickly. This is true not only for front-end web development."
   }
 ]
