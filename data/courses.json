@@ -22,5 +22,13 @@
     "price": 90,
     "thumbnail": "https://freecoursesites.com/wp-content/uploads/2022/08/NumPy-Pandas-Masterclass-Python-Data-Analysis-Tutorial.jpg",
     "description": "This is a hands-on, project-based course designed to help you master two of the most popular Python packages for data analysis: NumPy and Pandas.We’ll start with a NumPy primer to learn about arrays and their properties, practice common operations like indexing, slicing, filtering, and sorting, and look into important ideas like vectorization and broadcasting.From there, we’ll dive into Pandas and focus on the essential tools and methods to explore, analyze, aggregate, and transform series and data frames. You will practice plotting data frames with charts and graphs, manipulating time-series data, importing and exporting different types of files, and joining data frames using common join methods."
+  },
+  {
+    "id": 4,
+    "title": "Learn Python From Scratch to Master Object-Oriented Programming",
+    "introductory": "Andres Massey ",
+    "price": 99,
+    "thumbnail": "https://freecoursesites.com/wp-content/uploads/2022/08/Learn-Python-From-Scratch-to-Master-Object-Oriented-Programming.jpg",
+    "description": "Python is a programming language. Python is a programming language that was made for both people who have never coded before and experienced programmers who want to learn it to improve their careers. In reality, Python is one of the most widely used programming languages in the world, and major corporations like Google have found significant success in employing it in crucial systems like Google Search. Python, on the other hand, is the most widely used programming language for AI, data science, and machine learning. You’ll need to be an expert in Python, which this course will teach you if you want to get one of those well-paying positions."
   }
 ]
