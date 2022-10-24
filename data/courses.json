@@ -38,5 +38,13 @@
     "price": 75,
     "thumbnail": "https://freecoursesites.com/wp-content/uploads/2022/09/Kotlin-for-Beginners-Kotlin-2022-Programming-Tutorial.jpg",
     "description": "This course offers a distinctive Udemy experience. Although there are a ton of Kotlin materials available online, this is the only program that starts you off as a total novice in software development, guides you through the foundations and more complex concepts, and develops your expertise in this area. I’ve spent years creating Kotlin programs and years again instructing folks on how to write their own code. The goal of this course, which is the most comprehensive I’ve ever created, is to aid you in your quest to become a skilled developer."
+  },
+  {
+    "id": 6,
+    "title": "Create modern CRUD web app with Laravel and Angular REST APIs",
+    "introductory": "Santos Vasquez",
+    "price": 59,
+    "thumbnail": "https://freecoursesites.com/wp-content/uploads/2022/08/Create-modern-CRUD-web-app-with-Laravel-and-Angular-REST-APIs.jpg",
+    "description": "Welcome to this Angular and Laravel Course.During the project, Typescript and PHP will both be used to build a web application. A CRUD (create-read-update-delete) web project will be developed. What You’ll Learn: You’ll get hands-on experience with a number of Object-Oriented Programming design patterns and modern ways to talk to REST APIs with Angular.You will learn how to use RXJS observables and subjects, the tap, map, and of() operators, subscriptions, services, dependency injection, sending HTTP requests, importing modules, and getting route parameters, properly unsubscribing, using Angular Material components, and paginating data."
   }
 ]
