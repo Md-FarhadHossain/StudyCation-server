@@ -14,5 +14,13 @@
     "price": 65,
     "thumbnail": "https://freecoursesites.com/wp-content/uploads/2022/08/Learn-how-to-make-a-dice-game-using-JavaScript-Node.js-HTML5-and-CSS3.jpg",
     "description": "You will use JavaScript in this course to create a web browser dice game. The goal of this course is to take complete novices from having no prior experience to creating their own JavaScript games with me. You are creating a dice game in this lesson where participants guess and test whether their estimate is accurate. The winner is determined by the highest score after all elimination rounds, which are determined by the dice roll of 1-6. This course includes web design. A strong programming language to learn is JavaScript. JavaScript is related to other programming languages, so knowing JavaScript will help you learn other programming languages more quickly. This is true not only for front-end web development."
+  },
+  {
+    "id": 3,
+    "title": "NumPy & Pandas Masterclass: Python Data Analysis Tutorial",
+    "introductory": "Chris Dixon",
+    "price": 90,
+    "thumbnail": "https://freecoursesites.com/wp-content/uploads/2022/08/NumPy-Pandas-Masterclass-Python-Data-Analysis-Tutorial.jpg",
+    "description": "This is a hands-on, project-based course designed to help you master two of the most popular Python packages for data analysis: NumPy and Pandas.We’ll start with a NumPy primer to learn about arrays and their properties, practice common operations like indexing, slicing, filtering, and sorting, and look into important ideas like vectorization and broadcasting.From there, we’ll dive into Pandas and focus on the essential tools and methods to explore, analyze, aggregate, and transform series and data frames. You will practice plotting data frames with charts and graphs, manipulating time-series data, importing and exporting different types of files, and joining data frames using common join methods."
   }
 ]
