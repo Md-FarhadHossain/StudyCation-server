@@ -30,5 +30,13 @@
     "price": 99,
     "thumbnail": "https://freecoursesites.com/wp-content/uploads/2022/08/Learn-Python-From-Scratch-to-Master-Object-Oriented-Programming.jpg",
     "description": "Python is a programming language. Python is a programming language that was made for both people who have never coded before and experienced programmers who want to learn it to improve their careers. In reality, Python is one of the most widely used programming languages in the world, and major corporations like Google have found significant success in employing it in crucial systems like Google Search. Python, on the other hand, is the most widely used programming language for AI, data science, and machine learning. You’ll need to be an expert in Python, which this course will teach you if you want to get one of those well-paying positions."
+  },
+  {
+    "id": 5,
+    "title": "Kotlin for Beginners: Kotlin 2022 Programming Tutorial",
+    "introductory": "Guadalupe Murray",
+    "price": 75,
+    "thumbnail": "https://freecoursesites.com/wp-content/uploads/2022/09/Kotlin-for-Beginners-Kotlin-2022-Programming-Tutorial.jpg",
+    "description": "This course offers a distinctive Udemy experience. Although there are a ton of Kotlin materials available online, this is the only program that starts you off as a total novice in software development, guides you through the foundations and more complex concepts, and develops your expertise in this area. I’ve spent years creating Kotlin programs and years again instructing folks on how to write their own code. The goal of this course, which is the most comprehensive I’ve ever created, is to aid you in your quest to become a skilled developer."
   }
 ]
