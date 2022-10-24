@@ -46,5 +46,13 @@
     "price": 59,
     "thumbnail": "https://freecoursesites.com/wp-content/uploads/2022/08/Create-modern-CRUD-web-app-with-Laravel-and-Angular-REST-APIs.jpg",
     "description": "Welcome to this Angular and Laravel Course.During the project, Typescript and PHP will both be used to build a web application. A CRUD (create-read-update-delete) web project will be developed. What You’ll Learn: You’ll get hands-on experience with a number of Object-Oriented Programming design patterns and modern ways to talk to REST APIs with Angular.You will learn how to use RXJS observables and subjects, the tap, map, and of() operators, subscriptions, services, dependency injection, sending HTTP requests, importing modules, and getting route parameters, properly unsubscribing, using Angular Material components, and paginating data."
+  },
+  {
+    "id": 7,
+    "title": "Learn Typescript and React JS with React and Typescript Projects",
+    "introductory": "Bernard Pierce",
+    "price": 13,
+    "thumbnail": "https://freecoursesites.com/wp-content/uploads/2022/08/Learn-Typescript-and-React-JS-with-React-and-Typescript-Projects.jpg",
+    "description": "Hi, Greetings and welcome to the course “Learn Typescript and React JS with React and Typescript Projects.With the aid of actual Typescript and ReactJS projects, the Typescript and ReactJS courses assist you in thoroughly understanding React JS and Typescript.Microsoft created and maintains the programming language known as TypeScript. Typescript, typescript react, op and op are all maintained by Microsoft.Strongly typed programming language TypeScript, which is based on JavaScript, gives you superior tools at any size.To facilitate a stronger interaction with your editor, TypeScript extends JavaScript’s syntax. Early mistake detection in your editor.Code written in TypeScript may be converted to execute in any JavaScript-compatible environment. You can get excellent tools from TypeScript without writing additional code since it is familiar with JavaScript and leverages type inference."
   }
 ]
