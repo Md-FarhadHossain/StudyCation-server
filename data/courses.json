@@ -4,6 +4,10 @@
     "title": "Learn Adobe Premiere Pro CC Advanced Course",
     "introductory": "Rich Armstrong",
     "price": 78,
+    "introductoryImage": "https://img-b.udemycdn.com/user/200_H/15029294_df20.jpg",
+    "student": "432,519",
+    "lesson": 12,
+    "time": "17h 20m",
     "thumbnail":"https://freecoursesites.com/wp-content/uploads/2022/08/Learn-Adobe-Premiere-Pro-CC-%E2%80%93-Advanced-Course.jpg",
     "description": "This course is designed for those who are already familiar with the foundations of Adobe Premiere Pro and wish to improve their knowledge.People who already understand the basics of Adobe Premiere Pro or who have finished my course on Adobe Premiere Pro Essentials should enroll in this course. This course is perfect for you if you have your own way of doing things but know there are tools, updates, and ways to save time that you havent had a chance to look into yet.We examine the finest time-saving tips and obscure tools that make timeline editing really quick.We investigate color grading, color replacement, skin tone adjustment, and color management.You will learn how to use scopes effectively and master all the new Lumetri color techniques.Youll discover fresh approaches for making transitions that are both conventional and modern. Fixing handheld and drone video that is shaky will become second nature to you very soon."
   },
@@ -12,6 +16,10 @@
     "title": "Learn how to make a dice game using JavaScript, Node.js, HTML5, and CSS3",
     "introductory": "Aga Naplocha",
     "price": 65,
+    "introductoryImage": "https://img-c.udemycdn.com/user/200_H/115000288_b9a2.jpg",
+    "student": "14,207",
+    "lesson": 17,
+    "time": "03h 20m",
     "thumbnail": "https://freecoursesites.com/wp-content/uploads/2022/08/Learn-how-to-make-a-dice-game-using-JavaScript-Node.js-HTML5-and-CSS3.jpg",
     "description": "You will use JavaScript in this course to create a web browser dice game. The goal of this course is to take complete novices from having no prior experience to creating their own JavaScript games with me. You are creating a dice game in this lesson where participants guess and test whether their estimate is accurate. The winner is determined by the highest score after all elimination rounds, which are determined by the dice roll of 1-6. This course includes web design. A strong programming language to learn is JavaScript. JavaScript is related to other programming languages, so knowing JavaScript will help you learn other programming languages more quickly. This is true not only for front-end web development."
   },
@@ -20,6 +28,10 @@
     "title": "NumPy & Pandas Masterclass: Python Data Analysis Tutorial",
     "introductory": "Chris Dixon",
     "price": 90,
+    "introductoryImage": "https://img-c.udemycdn.com/user/200_H/116431170_7929.jpg",
+    "student": "45,849",
+    "lesson": 10,
+    "time": "15h 20m",
     "thumbnail": "https://freecoursesites.com/wp-content/uploads/2022/08/NumPy-Pandas-Masterclass-Python-Data-Analysis-Tutorial.jpg",
     "description": "This is a hands-on, project-based course designed to help you master two of the most popular Python packages for data analysis: NumPy and Pandas.We’ll start with a NumPy primer to learn about arrays and their properties, practice common operations like indexing, slicing, filtering, and sorting, and look into important ideas like vectorization and broadcasting.From there, we’ll dive into Pandas and focus on the essential tools and methods to explore, analyze, aggregate, and transform series and data frames. You will practice plotting data frames with charts and graphs, manipulating time-series data, importing and exporting different types of files, and joining data frames using common join methods."
   },
@@ -28,6 +40,10 @@
     "title": "Learn Python From Scratch to Master Object-Oriented Programming",
     "introductory": "Andres Massey ",
     "price": 99,
+    "introductoryImage": "https://img-b.udemycdn.com/user/200_H/23541258_048c.jpg",
+    "student": "62,631",
+    "lesson": 18,
+    "time": "13h 20m",
     "thumbnail": "https://freecoursesites.com/wp-content/uploads/2022/08/Learn-Python-From-Scratch-to-Master-Object-Oriented-Programming.jpg",
     "description": "Python is a programming language. Python is a programming language that was made for both people who have never coded before and experienced programmers who want to learn it to improve their careers. In reality, Python is one of the most widely used programming languages in the world, and major corporations like Google have found significant success in employing it in crucial systems like Google Search. Python, on the other hand, is the most widely used programming language for AI, data science, and machine learning. You’ll need to be an expert in Python, which this course will teach you if you want to get one of those well-paying positions."
   },
@@ -36,6 +52,10 @@
     "title": "Kotlin for Beginners: Kotlin 2022 Programming Tutorial",
     "introductory": "Guadalupe Murray",
     "price": 75,
+    "introductoryImage": "https://img-c.udemycdn.com/user/200_H/98356588_0525_2.jpg",
+    "student": "82,382",
+    "lesson": 15,
+    "time": "10h 40m",
     "thumbnail": "https://freecoursesites.com/wp-content/uploads/2022/09/Kotlin-for-Beginners-Kotlin-2022-Programming-Tutorial.jpg",
     "description": "This course offers a distinctive Udemy experience. Although there are a ton of Kotlin materials available online, this is the only program that starts you off as a total novice in software development, guides you through the foundations and more complex concepts, and develops your expertise in this area. I’ve spent years creating Kotlin programs and years again instructing folks on how to write their own code. The goal of this course, which is the most comprehensive I’ve ever created, is to aid you in your quest to become a skilled developer."
   },
@@ -44,6 +64,10 @@
     "title": "Create modern CRUD web app with Laravel and Angular REST APIs",
     "introductory": "Santos Vasquez",
     "price": 59,
+    "introductoryImage": "https://img-c.udemycdn.com/user/200_H/16981716_dad2.jpg",
+    "student": "21,748",
+    "lesson": 19,
+    "time": "18h 20m",
     "thumbnail": "https://freecoursesites.com/wp-content/uploads/2022/08/Create-modern-CRUD-web-app-with-Laravel-and-Angular-REST-APIs.jpg",
     "description": "Welcome to this Angular and Laravel Course.During the project, Typescript and PHP will both be used to build a web application. A CRUD (create-read-update-delete) web project will be developed. What You’ll Learn: You’ll get hands-on experience with a number of Object-Oriented Programming design patterns and modern ways to talk to REST APIs with Angular.You will learn how to use RXJS observables and subjects, the tap, map, and of() operators, subscriptions, services, dependency injection, sending HTTP requests, importing modules, and getting route parameters, properly unsubscribing, using Angular Material components, and paginating data."
   },
@@ -52,6 +76,10 @@
     "title": "Learn Typescript and React JS with React and Typescript Projects",
     "introductory": "Bernard Pierce",
     "price": 13,
+    "introductoryImage": "https://img-c.udemycdn.com/user/200_H/504761_ce0e_2.jpg",
+    "student": "18,060",
+    "lesson": 14,
+    "time": "12h 35m",
     "thumbnail": "https://freecoursesites.com/wp-content/uploads/2022/08/Learn-Typescript-and-React-JS-with-React-and-Typescript-Projects.jpg",
     "description": "Hi, Greetings and welcome to the course “Learn Typescript and React JS with React and Typescript Projects.With the aid of actual Typescript and ReactJS projects, the Typescript and ReactJS courses assist you in thoroughly understanding React JS and Typescript.Microsoft created and maintains the programming language known as TypeScript. Typescript, typescript react, op and op are all maintained by Microsoft.Strongly typed programming language TypeScript, which is based on JavaScript, gives you superior tools at any size.To facilitate a stronger interaction with your editor, TypeScript extends JavaScript’s syntax. Early mistake detection in your editor.Code written in TypeScript may be converted to execute in any JavaScript-compatible environment. You can get excellent tools from TypeScript without writing additional code since it is familiar with JavaScript and leverages type inference."
   },
@@ -60,6 +88,10 @@
     "title": "Building a To-Do List App using React Tutorial for Beginners",
     "introductory": "Arturo Santiago",
     "price": 99,
+    "introductoryImage": "https://img-c.udemycdn.com/user/200_H/27136708_294f.jpg",
+    "student": "11,455",
+    "lesson": 11,
+    "time": "19h 45m",
     "thumbnail": "https://freecoursesites.com/wp-content/uploads/2022/08/Building-a-To-Do-List-App-using-React-Tutorial-for-Beginners.jpg",
     "description": "The ideal React beginner’s course! Learn to create a to-do list app while applying React principles to a practical project! What you’ll learn. Building a To-Do List App using React Tutorial for Beginners.Make a React project from scratch.How are React principles used in a practical project? Make a to-do list app using functional components, states, and props.Organize your React project into components, states, and props. Requirements: This course has requirements in HTML, CSS, and JS. React fundamentals knowledge is desired, but don’t worry, we’ll go through everything."
     
@@ -68,6 +100,10 @@
     "title": "IELTS 9.0 Daily makes it simple to learn English",
     "introductory": "Garry Norris",
     "price": 80,
+    "introductoryImage": "https://img-b.udemycdn.com/user/200_H/4025310_84b3.jpg",
+    "student": "23,137",
+    "lesson": 20,
+    "time": "12h 55m",
     "thumbnail": "https://freecoursesites.com/wp-content/uploads/2022/08/IELTS-9.0-Daily-makes-it-simple-to-learn-English.jpg",
     "description": "Boost your IELTS preparation and develop new abilities to get IELTS 9.0 (Listening, Reading, Writing, and Speaking).Description:What makes it useful?The step-by-step instructions in this IELTS 9.0 Masterclass are simple to follow and meticulously hone your confidence and fluency. This is your all-inclusive IELTS preparation program (designed for academics but applicable to general as well). Discover techniques, abilities, and tactics to boost your IELTS core and wow the examiner. The Creative Commons Attribution license applies to some of the pictures and information used in this course (reuse allowed). What will you discover?This course is suitable for anybody hoping to get an IELTS band 8 or above, or even a band 9. However, although difficult, it will also be suitable for anyone hoping to score a band of at least 6.5 (university requirement). topics covered. Listening, Reading, Writing (Academic & General)."
   }
